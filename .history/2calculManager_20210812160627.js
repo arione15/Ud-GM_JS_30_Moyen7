@@ -1,0 +1,5 @@
+var calculManager{
+    additionner : function(){
+        
+    }
+}
