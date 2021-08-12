@@ -1,0 +1,4 @@
+var readline = require("readline-sync");
+var tab = [3,5,10,12];
+
+
